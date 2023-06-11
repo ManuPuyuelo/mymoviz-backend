@@ -1,4 +1,4 @@
-# 🍿 Mymoviz - Backend 🍿
+# 🍿 Mymoviz - Backend 
 
 Web app for tracking favorite movies
 
